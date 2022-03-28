@@ -4,8 +4,8 @@
   "description": "Thanks for downloading this template!",
   "main": "app.js",
   "scripts": {
-  
-    "start": "node event"
+    "test": "echo \"Error: no test specified\" && exit 1",
+   
   },
   "author": "",
   "license": "ISC",
