@@ -2,10 +2,10 @@
   "name": "day",
   "version": "1.0.0",
   "description": "Thanks for downloading this template!",
-  "main": "event.js",
+  "main": "app.js",
   "scripts": {
     
-    "start": "node event"
+    "start": "node app"
   },
   "author": "",
   "license": "ISC",
