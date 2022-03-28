@@ -2,7 +2,7 @@
   "name": "day",
   "version": "1.0.0",
   "description": "Thanks for downloading this template!",
-  "main": "app.js",
+  "main": "event.js",
   "scripts": {
     
     "start": "node event"
